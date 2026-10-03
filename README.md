@@ -20,6 +20,9 @@ version of the official Heretic + Hexen release, but structured as
 a trilogy and built for a source port. Each session has its own parameters, 
 multiplayer settings, WAD browser among other things.
 
+For full screen mode you can press F1 and to return the screen to 
+normal press Escape.
+
 Note: The latest version of Crispy Heretic is compatible with the new 
 expansion episode "Faith Renewed" (heretic_fr.wad); however, for it to 
 work, you must use the heretic.wad file from the official Heretic + Hexen 
