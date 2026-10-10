@@ -3,7 +3,7 @@ CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
 
 ![crispy1.png](https://github.com/nicoku007/CRISPY-TRILOGY/blob/main/crispy1.png?raw=true )
 
-![crispy 2 new.png](https://github.com/nicoku007/CRISPY-TRILOGY-for-Heretic-hexen-Strife/blob/main/crispy%202%20new.png?raw=true )
+![crispy 2 new new.png](https://github.com/nicoku007/CRISPY-TRILOGY-for-Heretic-hexen-Strife/blob/main/crispy%202%20new%20new.png?raw=true )
 
 ![crispy 3 new.png](https://github.com/nicoku007/CRISPY-TRILOGY-for-Heretic-hexen-Strife/blob/main/crispy%203%20new.png?raw=true )
 
@@ -11,7 +11,7 @@ CRISPY TRILOGY: Crispy-Heretic + Crispy-Hexen + Crispy-Strife
 
 ![crispy 5 new.png](https://github.com/nicoku007/CRISPY-TRILOGY-for-Heretic-hexen-Strife/blob/main/crispy%205%20new.png?raw=true )
 
-INTRODUCTION:
+ INTRODUCTION:
 
 Crispy Trilogy is a launcher created using C# Windows Forms, designed 
 to unify the source ports Crispy Heretic, Crispy Hexen, and Crispy 
@@ -23,11 +23,18 @@ multiplayer settings, WAD browser among other things.
 For full screen mode you can press F1 and to return the screen to 
 normal press Escape.
 
-Note: The latest version of Crispy Heretic is compatible with the new 
+Note 1: The latest version of Crispy Heretic is compatible with the new 
 expansion episode "Faith Renewed" (heretic_fr.wad); however, for it to 
 work, you must use the heretic.wad file from the official Heretic + Hexen 
 collection. If any other heretic.wad file is used, the episode will 
 experience severe graphical distortion.
+
+Note 2: The launcher includes a dedicated "Improved levels" feature for 
+Crispy Heretic. This option allows you to play the enhanced vanilla map 
+geometries using the official 'heretic_ex.wad' asset. For this feature 
+to function correctly, you must place both 'heretic.wad' and 'heretic_ex.wad' 
+from the official Heretic + Hexen collection inside the crispy-heretic 
+subfolder.
 
 
 HOW TO USE AND INSTALLATION:
@@ -41,6 +48,7 @@ the game WADs inside these subfolders. The main Crispy-Trilogy.exe
 file must sit right next to these folders to detect the games properly. 
 There is no need to move anything else.
 
-CRISPY TRILOGY by "Nicokugame007"
+  CRISPY TRILOGY by "Nicokugame007"
+
 
 
