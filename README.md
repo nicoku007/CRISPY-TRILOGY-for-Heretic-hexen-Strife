@@ -34,8 +34,11 @@ Crispy Heretic. This option allows you to play the enhanced vanilla map
 geometries using the official 'heretic_ex.wad' asset. For this feature 
 to function correctly, you must place both 'heretic.wad' and 'heretic_ex.wad' 
 from the official Heretic + Hexen collection inside the crispy-heretic 
-subfolder.
-
+subfolder. The "Improved levels" feature for Crispy Heretic is currently 
+experimental. While all enhanced maps can be launched and played, some levels 
+(such as Level 3) may experience random crashes to the desktop due to internal 
+engine overflow from the 2025 asset geometry. This behavior is an engine limit, 
+and it is possible that this will be fixed in a future update of Crispy Heretic. 
 
 HOW TO USE AND INSTALLATION:
 
